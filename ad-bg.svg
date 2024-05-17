@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="728" height="90" viewBox="0 0 728 90">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4a3c8d"/>
+      <stop offset="0.108" stop-color="#4c3e91"/>
+      <stop offset="1" stop-color="#261f49"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_5065" data-name="Group 5065" transform="translate(-279 -155)">
+    <g id="Component_8_1" data-name="Component 8 – 1" transform="translate(279 155)">
+      <g id="Path_39028" data-name="Path 39028" fill="url(#linear-gradient)">
+        <path d="M 727.5 89.5 L 0.5 89.5 L 0.5 0.5 L 727.5 0.5 L 727.5 89.5 Z" stroke="none"/>
+        <path d="M 1 1 L 1 89 L 727 89 L 727 1 L 1 1 M 0 0 L 728 0 L 728 90 L 0 90 L 0 0 Z" stroke="none" fill="#919191"/>
+      </g>
+    </g>
+    <path id="Path_39086" data-name="Path 39086" d="M140.881,80.055V67.847H128.673V56.111h12.208V43.9h11.736V56.111h12.208V67.847H152.617V80.055Z" transform="translate(604.327 120.098)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39087" data-name="Path 39087" d="M134.356,60.732V55.049h-5.683V49.586h5.683V43.9h5.463v5.683H145.5v5.463h-5.683v5.683Z" transform="translate(662.327 162.421)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39088" data-name="Path 39088" d="M136.247,43.9v7.574h-7.574v7.281h7.574V66.33h7.281V58.757H151.1V51.476h-7.574V43.9Z" transform="translate(414.757 145.407)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39089" data-name="Path 39089" d="M132.2,43.9v3.526h-3.526v3.389H132.2v3.526h3.389V50.817h3.526V47.428h-3.526V43.9Z" transform="translate(386.908 156)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39090" data-name="Path 39090" d="M132.641,43.9V47.87h-3.968v3.814h3.968v3.968h3.814V51.684h3.968V47.87h-3.968V43.9Z" transform="translate(798.435 155.085)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39091" data-name="Path 39091" d="M130.52,43.9v1.847h-1.847v1.776h1.847v1.847H132.3V47.525h1.847V45.749H132.3V43.9Z" transform="translate(758.703 128.585)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39092" data-name="Path 39092" d="M140.881,43.9V56.111H128.673V67.847h12.208V80.055h11.736V67.847h12.208V56.111H152.617V43.9Z" transform="translate(464.327 153.098)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39093" data-name="Path 39093" d="M134.356,43.9v5.683h-5.683v5.463h5.683v5.683h5.463V55.049H145.5V49.585h-5.683V43.9Z" transform="translate(522.327 130.098)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39094" data-name="Path 39094" d="M136.247,66.33V58.757h-7.574V51.476h7.574V43.9h7.281v7.574H151.1v7.281h-7.574V66.33Z" transform="translate(274.757 141.513)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39095" data-name="Path 39095" d="M132.2,54.343V50.817h-3.526V47.428H132.2V43.9h3.389v3.526h3.526v3.389h-3.526v3.526Z" transform="translate(246.908 142.907)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39096" data-name="Path 39096" d="M132.641,55.652V51.684h-3.968V47.87h3.968V43.9h3.814V47.87h3.968v3.814h-3.968v3.968Z" transform="translate(658.435 142.514)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39097" data-name="Path 39097" d="M130.52,49.372V47.525h-1.847V45.749h1.847V43.9H132.3v1.847h1.847v1.776H132.3v1.847Z" transform="translate(618.703 175.293)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39098" data-name="Path 39098" d="M140.881,43.9V56.111H128.673V67.847h12.208V80.055h11.736V67.847h12.208V56.111H152.617V43.9Z" transform="translate(749.327 160.098)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39099" data-name="Path 39099" d="M132.641,55.652V51.684h-3.968V47.87h3.968V43.9h3.814V47.87h3.968v3.814h-3.968v3.968Z" transform="translate(818.435 142.513)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39100" data-name="Path 39100" d="M130.52,49.372V47.525h-1.847V45.749h1.847V43.9H132.3v1.847h1.847v1.776H132.3v1.847Z" transform="translate(778.703 175.293)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39101" data-name="Path 39101" d="M133.569,58.4v-4.9h-4.9V48.8h4.9V43.9h4.707v4.9h4.9v4.707h-4.9v4.9Z" transform="translate(189.327 123.098)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39102" data-name="Path 39102" d="M134.356,60.732V55.049h-5.683V49.585h5.683V43.9h5.463v5.683H145.5v5.463h-5.683v5.683Z" transform="translate(542.327 162.421)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39103" data-name="Path 39103" d="M136.247,43.9v7.574h-7.574v7.281h7.574V66.33h7.281V58.757H151.1V51.476h-7.574V43.9Z" transform="translate(173.757 167.407)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39104" data-name="Path 39104" d="M132.2,43.9v3.526h-3.526v3.389H132.2v3.526h3.389V50.817h3.526V47.428h-3.526V43.9Z" transform="translate(266.908 156)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39105" data-name="Path 39105" d="M132.641,43.9V47.87h-3.968v3.814h3.968v3.968h3.814V51.684h3.968V47.87h-3.968V43.9Z" transform="translate(678.435 155.084)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39106" data-name="Path 39106" d="M130.52,43.9v1.847h-1.847v1.776h1.847v1.847H132.3V47.525h1.847V45.749H132.3V43.9Z" transform="translate(316.703 120.585)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39107" data-name="Path 39107" d="M132.2,54.343V50.817h-3.526V47.428H132.2V43.9h3.389v3.526h3.526v3.389h-3.526v3.526Z" transform="translate(486.908 129.585)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39108" data-name="Path 39108" d="M130.52,49.372V47.525h-1.847V45.749h1.847V43.9H132.3v1.847h1.847v1.776H132.3v1.847Z" transform="translate(858.703 161.971)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39109" data-name="Path 39109" d="M132.2,43.9v3.526h-3.526v3.389H132.2v3.526h3.389V50.817h3.526V47.428h-3.526V43.9Z" transform="translate(346.908 142.678)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39110" data-name="Path 39110" d="M132.641,43.9V47.87h-3.968v3.814h3.968v3.968h3.814V51.684h3.968V47.87h-3.968V43.9Z" transform="translate(758.435 141.762)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_39111" data-name="Path 39111" d="M130.52,49.372V47.525h-1.847V45.749h1.847V43.9H132.3v1.847h1.847v1.776H132.3v1.847Z" transform="translate(416.703 169.971)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+  </g>
+</svg>

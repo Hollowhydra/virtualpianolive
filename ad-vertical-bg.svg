@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="158.148" height="598" viewBox="0 0 158.148 598">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="158.148" height="598" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4a3c8d"/>
+      <stop offset="0.108" stop-color="#4c3e91"/>
+      <stop offset="1" stop-color="#261f49"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_4989" data-name="Group 4989" clip-path="url(#clip-path)">
+    <g id="Group_4989-2" data-name="Group 4989" transform="translate(1 1)">
+      <g id="Group_5065" data-name="Group 5065" transform="translate(-2 -2)">
+        <g id="Component_8_1" data-name="Component 8 – 1">
+          <g id="Path_39028" data-name="Path 39028">
+            <path id="Path_39017" data-name="Path 39017" d="M159.5,599.5H.5V.5h159Z" fill="url(#linear-gradient)"/>
+            <path id="Path_39018" data-name="Path 39018" d="M1,1V599H159V1H1M0,0H160V600H0Z" fill="#919191"/>
+          </g>
+        </g>
+        <path id="Path_39086" data-name="Path 39086" d="M140.881,80.055V67.847H128.673V56.111h12.208V43.9h11.736V56.111h12.208V67.847H152.617V80.055Z" transform="translate(-61.673 384.098)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39087" data-name="Path 39087" d="M134.356,60.732V55.049h-5.683V49.586h5.683V43.9h5.463v5.683H145.5v5.463h-5.683v5.683Z" transform="translate(-51.673 313.421)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39088" data-name="Path 39088" d="M136.247,43.9v7.574h-7.574v7.281h7.574V66.33h7.281V58.757H151.1V51.476h-7.574V43.9Z" transform="translate(-18.243 241.407)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39089" data-name="Path 39089" d="M132.2,43.9v3.526h-3.526v3.389H132.2v3.526h3.389V50.817h3.526V47.428h-3.526V43.9Z" transform="translate(-80.092 117)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39090" data-name="Path 39090" d="M132.641,43.9v3.97h-3.968v3.814h3.968v3.968h3.814V51.684h3.968V47.87h-3.968V43.9Z" transform="translate(321.733 1.085)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39091" data-name="Path 39091" d="M130.52,43.9v1.847h-1.847v1.776h1.847V49.37h1.78V47.525h1.847V45.749H132.3V43.9Z" transform="translate(-12.297 367.585)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39092" data-name="Path 39092" d="M140.881,43.9V56.111H128.673V67.847h12.208V80.055h11.736V67.847h12.208V56.111H152.617V43.9Z" transform="translate(-110.673 500.098)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39093" data-name="Path 39093" d="M134.356,43.9v5.683h-5.683v5.463h5.683v5.683h5.463v-5.68H145.5V49.585h-5.683V43.9Z" transform="translate(-104.673 197.098)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39094" data-name="Path 39094" d="M136.247,66.33V58.757h-7.574V51.476h7.574V43.9h7.281v7.574H151.1v7.281h-7.574V66.33Z" transform="translate(-39.237 -12.487)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39095" data-name="Path 39095" d="M132.2,54.343V50.817h-3.526V47.428H132.2V43.9h3.389v3.526h3.526v3.389h-3.526v3.526Z" transform="translate(-31.092 -11.093)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39096" data-name="Path 39096" d="M132.641,55.652V51.684h-3.968V47.87h3.968V43.9h3.814v3.97h3.968v3.814h-3.968v3.968Z" transform="translate(-30.313 321.514)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39097" data-name="Path 39097" d="M130.52,49.372V47.525h-1.847V45.749h1.847V43.9h1.78v1.847h1.847v1.776H132.3V49.37Z" transform="translate(209.227 21.293)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39098" data-name="Path 39098" d="M140.881,43.9V56.111H128.673V67.847h12.208V80.055h11.736V67.847h12.208V56.111H152.617V43.9Z" transform="translate(-43.673 133.098)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39099" data-name="Path 39099" d="M132.641,55.652V51.684h-3.968V47.87h3.968V43.9h3.814v3.97h3.968v3.814h-3.968v3.968Z" transform="translate(-16.565 429.513)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39100" data-name="Path 39100" d="M130.52,49.372V47.525h-1.847V45.749h1.847V43.9h1.78v1.847h1.847v1.776H132.3V49.37Z" transform="translate(302.001 21.293)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39101" data-name="Path 39101" d="M133.569,58.4V53.5h-4.9V48.8h4.9V43.9h4.707v4.9h4.9v4.707h-4.9v4.9Z" transform="translate(-88.673 -30.902)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39102" data-name="Path 39102" d="M134.356,60.732V55.049h-5.683V49.585h5.683V43.9h5.463v5.683H145.5v5.463h-5.683v5.683Z" transform="translate(-92.673 268.421)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39103" data-name="Path 39103" d="M136.247,43.9v7.574h-7.574v7.281h7.574V66.33h7.281V58.757H151.1V51.476h-7.574V43.9Z" transform="translate(-104.243 13.407)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39104" data-name="Path 39104" d="M132.2,43.9v3.526h-3.526v3.389H132.2v3.526h3.389V50.817h3.526V47.428h-3.526V43.9Z" transform="translate(-41.092 510)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39105" data-name="Path 39105" d="M132.641,43.9v3.97h-3.968v3.814h3.968v3.968h3.814V51.684h3.968V47.87h-3.968V43.9Z" transform="translate(250.905 1.084)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39106" data-name="Path 39106" d="M130.52,43.9v1.847h-1.847v1.776h1.847V49.37h1.78V47.525h1.847V45.749H132.3V43.9Z" transform="translate(-115.297 88.585)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39107" data-name="Path 39107" d="M132.2,54.343V50.817h-3.526V47.428H132.2V43.9h3.389v3.526h3.526v3.389h-3.526v3.526Z" transform="translate(-48.092 49.585)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39108" data-name="Path 39108" d="M130.52,49.372V47.525h-1.847V45.749h1.847V43.9h1.78v1.847h1.847v1.776H132.3V49.37Z" transform="translate(382.001 7.971)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39109" data-name="Path 39109" d="M132.2,43.9v3.526h-3.526v3.389H132.2v3.526h3.389V50.817h3.526V47.428h-3.526V43.9Z" transform="translate(-7.092 70.678)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39110" data-name="Path 39110" d="M132.641,43.9v3.97h-3.968v3.814h3.968v3.968h3.814V51.684h3.968V47.87h-3.968V43.9Z" transform="translate(-85.565 372.762)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_39111" data-name="Path 39111" d="M130.52,49.372V47.525h-1.847V45.749h1.847V43.9h1.78v1.847h1.847v1.776H132.3V49.37Z" transform="translate(-8.297 103.971)" fill="#4d4d4d" opacity="0.343" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+      </g>
+      <rect id="Rectangle_1294" data-name="Rectangle 1294" width="160" height="600" fill="none"/>
+    </g>
+  </g>
+</svg>
