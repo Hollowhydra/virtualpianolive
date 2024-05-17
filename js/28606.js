@@ -1,0 +1,2 @@
+jQuery(window).on("load",function($)
+{jQuery('.ad-close').click(function(){var ad=jQuery(this).parents('.ad-wrap');jQuery(this).parents('.ad-wrap').toggleClass('closed');setTimeout(function(){ad.removeClass('closed');},30000)});jQuery('#right-sidebar').height(jQuery('#primary').height());jQuery('#custom_html-34').addClass('sticky-right');jQuery('#custom_html-35').addClass('sticky-right-2ndad');})
